@@ -6,7 +6,9 @@ Publish local Maven repository to package registry
 Modify publish_repo.sh, the following need to be changed:
 
 REPO_URL - Url to the publish API on your Gitea server
+
 REPO_ID - Name given to your packages registry in settings.xml
+
 LOCAL_REPO - Path to your local Maven repository to be uploaded
 
 and for this line:
