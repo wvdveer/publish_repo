@@ -46,3 +46,5 @@ To register the package registry you first need to add your access token to the 
   </servers>
 </settings>
 ```
+
+Obtaining your access token is described here: https://docs.gitea.cn/en-us/development/api-usage#authentication
